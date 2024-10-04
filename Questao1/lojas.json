@@ -1,0 +1,72 @@
+[
+    {
+        "nome": "Loja Exemplo 1",
+        "endere\u00e7o": {
+            "rua": "Rua Exemplo 1",
+            "cidade": "Exemplo City 1"
+        },
+        "produtos": [
+            {
+                "id": 1,
+                "nome": "Produto A",
+                "pre\u00e7o": 29.99
+            }
+        ]
+    },
+    {
+        "nome": "Loja Exemplo 2",
+        "endere\u00e7o": {
+            "rua": "Rua Exemplo 2",
+            "cidade": "Exemplo City 2"
+        },
+        "produtos": [
+            {
+                "id": 2,
+                "nome": "Produto D",
+                "pre\u00e7o": 15.0
+            }
+        ]
+    },
+    {
+        "nome": "Loja Exemplo 3",
+        "endere\u00e7o": {
+            "rua": "Rua Exemplo 3",
+            "cidade": "Exemplo City 3"
+        },
+        "produtos": [
+            {
+                "id": 1,
+                "nome": "Produto E",
+                "pre\u00e7o": 22.0
+            }
+        ]
+    },
+    {
+        "nome": "Loja Exemplo 4",
+        "endere\u00e7o": {
+            "rua": "Rua Exemplo 4",
+            "cidade": "Exemplo City 4"
+        },
+        "produtos": [
+            {
+                "id": 2,
+                "nome": "Produto H",
+                "pre\u00e7o": 5.99
+            }
+        ]
+    },
+    {
+        "nome": "Loja Exemplo 5",
+        "endere\u00e7o": {
+            "rua": "Rua Exemplo 5",
+            "cidade": "Exemplo City 5"
+        },
+        "produtos": [
+            {
+                "id": 2,
+                "nome": "Produto J",
+                "pre\u00e7o": 27.5
+            }
+        ]
+    }
+]

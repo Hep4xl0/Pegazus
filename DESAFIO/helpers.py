@@ -1,3 +1,4 @@
+#VERSÃO BASE DO PROGRAMA PARA O DESAFIO
 from model import cadastro
 
 contas = []
@@ -52,3 +53,4 @@ def deposito():
             return
     print("Conta não encontrada.")
             
+#VERSÃO BASE DO PROGRAMA PARA O DESAFIO

@@ -1,3 +1,4 @@
+#VERSÃO BASE DO PROGRAMA PARA O DESAFIO
 class cadastro():
     id_contar = 0
     def __init__(self, nome, cpf):
@@ -23,5 +24,5 @@ class cadastro():
                 print("valor invalido")
         else:
             print("valor invalido")
-
+#VERSÃO BASE DO PROGRAMA PARA O DESAFIO
         
